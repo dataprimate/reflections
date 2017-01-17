@@ -11,3 +11,5 @@ What are some situations when branches would be helpful in keeping your history 
 When you are trying out new ideas or writing the script in a different language. Branches do not change the original version and give you the option to try out new ideas.
 How do the diagrams help you to visualize the branch structure?
 They help to see which branch the commits belong to and which commits are the parents. They also help to identify unreachable commits.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+All the commits are then part of the master branch abd the code is cobined to reflect all the changes. The diagram indicates who the parent commit was originally. 
