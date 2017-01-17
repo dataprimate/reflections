@@ -13,3 +13,6 @@ How do the diagrams help you to visualize the branch structure?
 They help to see which branch the commits belong to and which commits are the parents. They also help to identify unreachable commits.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 All the commits are then part of the master branch abd the code is cobined to reflect all the changes. The diagram indicates who the parent commit was originally. 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Automatic merging can lead to conflicts in code. This means that code needs to be edited before a merge can complete.
+The code that is conflicting can easily be seen in the script as the merge creates special characters to indicate a change.
