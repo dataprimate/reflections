@@ -7,3 +7,6 @@ The working directory contains files which may not be part of a commit and is ju
 The staging area is useful to manage which files are part of which commmit, rather than placing all of them ito the commit.
 How can you use the staging area to make sure you have one commit per logical change?
 You can add files that have been editec to the staging area and these can be the only ones then that have a change when a commit is made. Hence only these changes need to be commented on.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you are trying out new ideas or writing the script in a different language. Branches do not change the original version and give you the option to try out new ideas.
+
