@@ -16,3 +16,4 @@ All the commits are then part of the master branch abd the code is cobined to re
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 Automatic merging can lead to conflicts in code. This means that code needs to be edited before a merge can complete.
 The code that is conflicting can easily be seen in the script as the merge creates special characters to indicate a change.
+Chaneg to email.
