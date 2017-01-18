@@ -22,3 +22,4 @@ How might using version control make you more confident to make changes that cou
 I know that if I make a mistake, eg remove code by accident, there is a file containing the previous content of code. Very useful for tracking down bugs.
 Now that you have your workspace set up, what do you want to try using Git for?
 I would like to try and use Git to write some code, run some code and then edit and develop code.
+Change to correct email.
