@@ -9,3 +9,6 @@ You can work on any changes that you have madeor someone else has made locally o
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We would have to talk more and somehow track changes and file files in a different/orderly way. 
 It would get complicated and mistakes would happen. It would waste time. Not sure there are any good reasons for not using it!
+When would you want to make a change in a seperate branch rather than directly in master? What benefits does each approach have?
+If I was trying out a new idea or making a radical change?. If the idea does not work then at least the master branch will not have 
+been broken. If the development stays in the master you do not have the problem of merging.
